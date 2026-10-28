@@ -1,0 +1,10 @@
+{
+  "description": "Automates personalized LinkedIn outreach and follow-ups for international students and young professionals to build genuine career connections effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
